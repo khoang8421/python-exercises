@@ -21,9 +21,12 @@ A collection of Python projects I built while learning APIs, data science, and P
 # Repository Structure
 
 ```bash
-python-learning-projects/
+python-exercises/
 │
 ├── Python/
 ├── Numpy/
 ├── Pandas/
 ├── EDA-Projects/
+└── README.md
+
+```
