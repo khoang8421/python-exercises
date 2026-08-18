@@ -59,5 +59,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#1/1/2026 Grade: 90/100 basically had to search it up and learn since this was my first time doing it
-#but I didn't use AI tools
+#1/1/2026 Grade: 90/100

@@ -1,3 +1,5 @@
+## Python Exercises
+
 How to push changes to Git:
 1. git status
 2. git add .

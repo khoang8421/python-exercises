@@ -63,4 +63,3 @@ if __name__ == "__main__":
     main()
 
 #1/1/2026 90/100
-#Learned that data normalization is used by ML pipelines and machines
